@@ -1,0 +1,17 @@
+.private-content{
+
+    .content-header{
+        display: flex;
+        flex-direction: row;
+
+    h1{
+        color: white;
+        text-align: center;
+        flex:2;
+    }
+    span{
+        color: white;
+        flex:0.2;
+    }
+    }
+}

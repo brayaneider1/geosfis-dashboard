@@ -1,0 +1,10 @@
+.auth-content{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    height:  -webkit-fill-available;
+    .contentent-custom{
+        display: flex;
+        justify-content: center;
+    }
+}

@@ -1,0 +1,19 @@
+.add-event{
+    background-color: rgba(196, 196, 196, 0.5);
+    padding:2% 10%;
+    justify-self: center;
+    align-items: center;
+    border-radius: 10px;
+    Form{
+
+        .content-incorrects{
+            display: flex;
+            flex-direction: row;
+            Input{
+                flex:1;
+                margin: 0 2% 0 0;
+            }
+        }
+
+    }
+}
